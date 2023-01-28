@@ -23,3 +23,4 @@ com.gemui.app-mergeDebugResources-21 C:\Users\Ricardo\Projects\gem\GemUI\android
 com.gemui.app-merged_res-22 C:\Users\Ricardo\Projects\gem\GemUI\android\app\build\intermediates\merged_res\debug
 com.gemui.app-debug-23 C:\Users\Ricardo\Projects\gem\GemUI\android\app\src\debug\res
 com.gemui.app-main-24 C:\Users\Ricardo\Projects\gem\GemUI\android\app\src\main\res
+com.gemui.app-packaged_res-25 C:\Users\Ricardo\Projects\gem\GemUI\node_modules\react-native-image-picker\android\build\intermediates\packaged_res\debug
